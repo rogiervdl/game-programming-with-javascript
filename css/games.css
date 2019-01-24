@@ -1,0 +1,11 @@
+/**
+ * CSS for index.html
+ *
+ * Copyright (C) 2013-2014 Rogier van der Linde
+ */
+
+/* more mods */
+
+.reveal nav p:first-child + ul {
+    display: none;
+}
